@@ -22,7 +22,7 @@ This project is a Python-based image processing pipeline developed to overcome t
 
 | Original (Gray and Pale) | Sharpened, Clean, and Black Space |
 | :---: | :---: |
-| ![Original](gorsel_1.png) | ![Processed](temiz_uzay_1.png) |
+| ![Original](gorsel_6.png) | ![Processed](temiz_uzay_6.png) |
 | *Raw image, gray and noisy due to light pollution.* | *Result after BM3D denoising and black point adjustment.* |
 
 ### 🚀 Features and Algorithm Steps
@@ -90,7 +90,7 @@ Bu proje, kentsel ışık kirliliği ve CMOS sensör gürültüsü gibi amatör 
 
 | Orijinal (Gri ve Solgun) | Keskinleştirilmiş, Temiz ve Siyah Uzay |
 | :---: | :---: |
-| ![Orijinal](gorsel_1.png) | ![İşlenmiş](temiz_uzay_1.png) |
+| ![Orijinal](gorsel_6.png) | ![İşlenmiş](temiz_uzay_6.png) |
 | *Işık kirliliği nedeniyle grileşmiş ve gürültülü ham görüntü.* | *BM3D ile temizlenmiş, siyah noktası ayarlanmış sonuç.* |
 
 ### 🚀 Özellikler ve Algoritma Adımları
