@@ -1,11 +1,7 @@
 # Astro-Image-Pipeline
 A Python-based image processing pipeline for enhancing amateur astrophotography. It improves deep-sky images by combining BM3D denoising, histogram stretching, and unsharp masking.
 
-Harika bir astrofotografi görüntü işleme projesi! Makalendeki teorik arka planı ve Python kodundaki pratik adımları birleştirerek GitHub depon için profesyonel, açıklayıcı ve görselli bir `README.md` dosyası hazırladım. 
 
-GitHub'a yüklediğinde kaynakça etiketlerini (``) metin düzenleyicinde "Bul ve Değiştir" yaparak silebilir ve resim yollarını kendi klasör yapına göre güncelleyebilirsin.
-
-İşte depona doğrudan kopyalayıp yapıştırabileceğin veya `.md` uzantılı olarak kaydedebileceğin içerik:
 
 ```markdown
 # 🌌 Amatör Astronomi - Görüntü İşleme Pipeline
