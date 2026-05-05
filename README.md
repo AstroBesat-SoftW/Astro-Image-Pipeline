@@ -2,7 +2,6 @@
 A Python-based image processing pipeline for enhancing amateur astrophotography. It improves deep-sky images by combining BM3D denoising, histogram stretching, and unsharp masking.
 
 
-```markdown
 <div align="center">
 
 [ 🇬🇧 English ](#-english) | [ 🇹🇷 Türkçe ](#-türkçe)
@@ -39,7 +38,7 @@ The script performs three main operations sequentially with a single function ca
 
 You need the following Python libraries to run the project:
 
-```bash
+
 pip install opencv-python numpy matplotlib scikit-image bm3d
 ```
 
