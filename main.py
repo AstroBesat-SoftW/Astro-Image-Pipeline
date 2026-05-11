@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 from skimage.exposure import rescale_intensity
 import bm3d
 
+# algoitmalardan sadece 1 tanesi de denenebilir. örnek olarak ben 3 tane ekledim ve bu kaliteye göre yavaş sonuç verebiliyor.
+
 def astro_black_point_and_denoise(input_path, output_path, noise_std=0.10, black_point=15, sharpen_amount=1.2):
     # 1. Görseli Oku, Normalize Et (0-1) ve RGB'ye Çevir
     img = cv2.imread(input_path)
