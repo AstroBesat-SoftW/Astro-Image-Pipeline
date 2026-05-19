@@ -147,5 +147,5 @@ Projeye ilerleyen aşamalarda şu özelliklerin eklenmesi planlanmaktadır:
 - Renk kalibrasyonu için referans yıldızı kullanımı.
 
 ---
-**Developer / Geliştirici:** Besat Arif Çıngar
+**Developer / Geliştirici:** Besat Çıngar
 ```
